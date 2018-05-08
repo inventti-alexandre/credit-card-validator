@@ -1,5 +1,0 @@
-c:\users\thiag\documents\visual studio 2017\Projects\TS.LeanworkTest.CreditCardValidator\src\TS.LeanworkTest.CreditCardValidator.Core\bin\Debug\TS.LeanworkTest.CreditCardValidator.Core.dll
-c:\users\thiag\documents\visual studio 2017\Projects\TS.LeanworkTest.CreditCardValidator\src\TS.LeanworkTest.CreditCardValidator.Core\bin\Debug\TS.LeanworkTest.CreditCardValidator.Core.pdb
-c:\users\thiag\documents\visual studio 2017\Projects\TS.LeanworkTest.CreditCardValidator\src\TS.LeanworkTest.CreditCardValidator.Core\obj\Debug\TS.LeanworkTest.CreditCardValidator.Core.csprojResolveAssemblyReference.cache
-c:\users\thiag\documents\visual studio 2017\Projects\TS.LeanworkTest.CreditCardValidator\src\TS.LeanworkTest.CreditCardValidator.Core\obj\Debug\TS.LeanworkTest.CreditCardValidator.Core.dll
-c:\users\thiag\documents\visual studio 2017\Projects\TS.LeanworkTest.CreditCardValidator\src\TS.LeanworkTest.CreditCardValidator.Core\obj\Debug\TS.LeanworkTest.CreditCardValidator.Core.pdb
