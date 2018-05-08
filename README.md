@@ -1,2 +1,2 @@
-# ts-credit-card-validator
+# Credit-Card-Validator
 Desafio Leanwork: Verificador de cartão de crédito
